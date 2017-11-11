@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("ArrowAsserts")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("NUnit 3 Project Reference Assertions")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Aptobits, LLC")]
 [assembly: AssemblyProduct("ArrowAsserts")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
