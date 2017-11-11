@@ -1,4 +1,5 @@
 ﻿using NUnit.Framework;
+using Is = ArrowAsserts.Is;
 
 namespace ArrowAsserts.Tests
 {
