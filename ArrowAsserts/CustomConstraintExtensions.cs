@@ -1,6 +1,7 @@
-﻿using NUnit.Framework.Constraints;
+﻿using ArrowAsserts;
+using NUnit.Framework.Constraints;
 
-namespace ArrowAsserts
+namespace NUnit.Framework
 {
     public static class CustomConstraintExtensions
     {
@@ -11,7 +12,10 @@ namespace ArrowAsserts
             return constraint;
         }
     }
+}
 
+namespace ArrowAsserts
+{
     public class Is : NUnit.Framework.Is
     {
         public static ReferencingConstraint Referencing(object expected)

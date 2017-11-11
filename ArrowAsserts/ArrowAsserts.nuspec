@@ -10,7 +10,7 @@
     <projectUrl>https://github.com/kmckee/ArrowAsserts</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>NUnit assertions to help you keep an eye on your project references.</description>
-    <releaseNotes>Initial release.</releaseNotes>
+    <releaseNotes>Fixed some namespacing issues.</releaseNotes>
     <copyright>Copyright 2017</copyright>
     <tags>NUnit Assertions Architecture</tags>
   </metadata>
